@@ -1,16 +1,19 @@
-## Hi there 👋
+# ¡Hola, soy [Fernando Rangel]! 👋
 
-<!--
-**Fernando-rangel86/Fernando-rangel86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub. Aquí comparto mis proyectos personales, contribuciones a código abierto y experimentos con diferentes tecnologías. Si te interesa lo que hago, no dudes en seguirme, darme una estrella en mis repositorios o colaborar en algún proyecto.
 
-Here are some ideas to get you started:
+## 🚀 ¿Quién soy?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy [Ingeniero industrial, magister en ingenieria de petroleos y gas], con experiencia en [industria y docencia]. Me apasiona [la docencia, la tecnologia y la investigación.], y me encanta aprender nuevas tecnologías y enfrentar nuevos retos.
+
+- 💻 Actualmente estoy aprendiendo [Pyton y otras herramientas de programación].
+- 🔭 Mi objetivo es [mejorar mi ejercicio pedagógico y profesional].
+- 🌱 Me gustaría mejorar mis habilidades en [tecnologías, herramientas, o metodologías específicas].
+- 📫 ¿Cómo contactarme? Puedes enviarme un correo a [fernando.rangelr@gmail.com].
+- ⚡ 
+
+## 📂 Mis repositorios más populares
+
+A continuación, puedes encontrar algunos de mis proyectos más destacados:
+
+- [**Proyecto 1**](https://github.com/Fernando-rangel86/proyecto_final_CD/blob/main/Proyecto_final_FernandoR.ipynb) - Identificación de factores que afectan el desempeño escolar en el área de matemáticas en el contexto de la ruralidad.

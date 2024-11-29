@@ -6,10 +6,10 @@ Bienvenido a mi perfil de GitHub. Aquí comparto mis proyectos personales, contr
 
 Soy [Ingeniero industrial, magister en ingenieria de petroleos y gas], con experiencia en [industria y docencia]. Me apasiona [la docencia, la tecnologia y la investigación.], y me encanta aprender nuevas tecnologías y enfrentar nuevos retos.
 
-- 💻 Actualmente estoy aprendiendo [Pyton y otras herramientas de programación].
-- 🔭 Mi objetivo es [mejorar mi ejercicio pedagógico y profesional].
-- 🌱 Me gustaría mejorar mis habilidades en [tecnologías, herramientas, o metodologías específicas].
-- 📫 ¿Cómo contactarme? Puedes enviarme un correo a [fernando.rangelr@gmail.com].
+- 💻 Actualmente estoy aprendiendo Pyton y otras herramientas de programación.
+- 🔭 Mi objetivo es mejorar mi ejercicio pedagógico y profesional.
+- 🌱 Me gustaría mejorar mis habilidades en tecnologías, herramientas, o metodologías específicas.
+- 📫 ¿Cómo contactarme? Puedes enviarme un correo a fernando.rangelr@gmail.com.
 - ⚡ 
 
 ## 📂 Mis repositorios más populares
